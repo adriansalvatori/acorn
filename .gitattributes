@@ -1,0 +1,5 @@
+/.devcontainer export-ignore
+/.github export-ignore
+/.gitattributes export-ignore
+/scripts export-ignore
+*.css linguist-detectable=false
